@@ -3,7 +3,7 @@
 #include <vector>
 
 
-#define TRAILS_LIFETIME 1
+#define TRAILS_LIFETIME 1.0
 
 
 // Цвета реальных маркеров
