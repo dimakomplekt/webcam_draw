@@ -1,0 +1,7 @@
+resources/
+build/
+main_dom.cpp
+main_fig.cpp
+main_pants.cpp
+copilot_rules.txt
+.vs_code
